@@ -5,9 +5,7 @@ DBdoctor支持**安装包解压一键安装**与**Docker镜像手动导入**安�
 # 安装包解压一键安装
 下载地址：
 
-- x86安装包：https://github.com/juhaokan/DBdoctor/tags
-
-- ARM安装包：https://github.com/juhaokan/DBdoctor/tags
+[点击下载](https://www.dbdoctor.cn?utm=ca9c5e16c6de4fe68e96b814d1df39e6)
 
 预估时间：**1分钟**
 
